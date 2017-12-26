@@ -1,5 +1,7 @@
 /*----------------Arrow function***************
-1. An arrow function does not have its own this;
+1. An arrow function expression has a shorter syntax than a function expression
+2. An arrow function  does not have its own this, arguments, super, or new.target.
+3. These function expressions are best suited for non-method functions, and they cannot be used as constructors.
 
 */
 
